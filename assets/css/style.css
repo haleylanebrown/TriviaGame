@@ -1,0 +1,62 @@
+body {
+  background-image: url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0427/8627/6_spoon_shop_preview.png");  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+}
+
+#headerimage{
+	margin-bottom: 20px;
+	border-bottom: 15px black solid;
+}
+
+.btn-primary,.reset{
+	background-color: peachpuff;
+	color: black;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 40px;
+	padding: 20px;
+    margin-top: 100px;
+	border: none;
+	font-weight: bold;
+}
+.btn-primary:hover, .reset:hover{
+	background-color: #350f41;
+	color: white;
+}
+
+.container{
+	padding: 20px;
+	margin: 0, auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+	height: 100%;
+	width: 700px;
+	background-color: white;
+	border: 3px black solid;
+}
+
+h2, #message, #finalMessage{
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 40px;
+	color: #350f41;
+	font-weight: bold;
+}
+
+.thisChoice:hover{
+	background-color: peachpuff;
+	color: black;
+	padding: 10px;
+}
+
+#gif{
+	margin: 30px;
+}
+
+@media screen and (max-width:640px){
+	.container{
+		width: 500px;
+		margin-top: 200px;
+		size: 200%;
+	}	
+}
