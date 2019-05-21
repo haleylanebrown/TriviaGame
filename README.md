@@ -1,14 +1,16 @@
-Trivia Game
+# Trivia Game
 
 This game is my Unit 5 homework submission for Denver University's Coding Bootcamp.
 
 The objective of this assignment was to build an interactive trivia game using JavaScript for the logic and jQuery to manipulate HTML (including stylish CSS).
 
-Instructions:
+## Instructions:
 Click Start to begin the trivia game. You have 15 seconds to answer each question - a counter will be displayed to show how much time is reamining. If you answer incorrectly or leave the question unaswered, the correct answer will display. If no answer is selected before the timer runs out, the trivia will advance to the next question. At the end of the game, you will be shown the number of correct answers, incorrect answers, and unanswered questions. 
 
 Click on the following link to preview the completed assignment.
 https://haleylanebrown.github.io/TriviaGame/ 
+
+![triviagame](https://user-images.githubusercontent.com/47645417/58118465-1b16ea00-7bbe-11e9-9a8e-3e27e9d760a0.png)
 
 Technologies used:
 - Google Fonts
